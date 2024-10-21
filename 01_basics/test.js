@@ -1,0 +1,1 @@
+console.log("Chinmoy Studied in Icfai University")
